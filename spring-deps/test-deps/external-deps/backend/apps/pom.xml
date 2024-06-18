@@ -14,7 +14,6 @@
         <module>core-java</module>
         <module>data-structures-and-algorithms</module>
         <module>design-patterns</module>
-        <module>design-patterns-spring-boot</module>
         <module>design-principles</module>
         <module>spring-boot</module>
     </modules>
